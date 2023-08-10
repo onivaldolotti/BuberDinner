@@ -1,0 +1,17 @@
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.deps.json
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/ref/BuberDinner.Infrastructure.dll
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/ref/BuberDinner.Infrastructure.dll
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.dll
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.dll
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.pdb
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/home/onivaldo/aplicacoes/BuberDiner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CopyComplete
